@@ -1,0 +1,26 @@
+{
+  "name": "jsautomation",
+  "version": "1.0.0",
+  "description": "test automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whitehead1988/TestFrameworkJS.git"
+  },
+  "author": "Bartlomiej Wojcik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whitehead1988/TestFrameworkJS/issues"
+  },
+  "homepage": "https://github.com/Whitehead1988/TestFrameworkJS#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-protractor-runner": "^5.0.0",
+    "grunt-shell-spawn": "^0.3.10",
+    "protractor": "^5.4.0"
+  }
+}
